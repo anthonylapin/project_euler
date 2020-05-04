@@ -1,0 +1,13 @@
+D:\Projects\project_euler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.exe
+D:\Projects\project_euler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.deps.json
+D:\Projects\project_euler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.runtimeconfig.json
+D:\Projects\project_euler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.runtimeconfig.dev.json
+D:\Projects\project_euler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.dll
+D:\Projects\project_euler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.pdb
+D:\Projects\project_euler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.csprojAssemblyReference.cache
+D:\Projects\project_euler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.csproj.CoreCompileInputs.cache
+D:\Projects\project_euler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.AssemblyInfoInputs.cache
+D:\Projects\project_euler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.AssemblyInfo.cs
+D:\Projects\project_euler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.dll
+D:\Projects\project_euler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.pdb
+D:\Projects\project_euler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.genruntimeconfig.cache
