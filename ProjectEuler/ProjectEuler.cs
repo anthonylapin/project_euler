@@ -9,7 +9,9 @@ namespace ProjectEuler
         {
             Console.WriteLine("Hello World!");
 
-            Problem2.Solution();
+            //Problem2.Solution();
+
+            Problem3.Solution();
         }
 
     }
@@ -35,6 +37,8 @@ namespace ProjectEuler
 
     class Problem2
     {
+        /* By considering the terms in the Fibonacci sequence whose values do not
+         * exceed four million, find the sum of the even-valued terms. */
         public static void Solution()
         {
             long answer = 0;
@@ -65,5 +69,45 @@ namespace ProjectEuler
                 return F(n - 2) + F(n - 1);
             }
         }
+    }
+
+    class Problem3
+    {
+        /* The prime factors of 13195 are 5, 7, 13 and 29.
+        What is the largest prime factor of the number 600851475143 ? */
+        public static void Solution()
+        {
+            const long number = 600851475143;
+            long newnum = number;
+            long largest = 0;
+            int counter = 2;
+
+            while(counter * counter <= newnum)
+            {
+                if(newnum % counter == 0)
+                {
+                    newnum = newnum / counter;
+                    largest = counter;
+                }
+                else
+                {
+                    counter++;  
+                }
+            }
+
+            if(newnum > largest)
+            {
+                largest = newnum;
+            }
+
+            Console.WriteLine(largest);
+
+
+
+
+        }
+
+         
+       
     }
 }

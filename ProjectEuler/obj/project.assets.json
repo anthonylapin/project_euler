@@ -8,26 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Anton\\.nuget\\packages\\": {}
+    "/Users/antonlapin/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\project_euler\\ProjectEuler\\ProjectEuler.csproj",
+      "projectUniqueName": "/Users/antonlapin/Projects/project_euler/ProjectEuler/ProjectEuler.csproj",
       "projectName": "ProjectEuler",
-      "projectPath": "D:\\Projects\\project_euler\\ProjectEuler\\ProjectEuler.csproj",
-      "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\project_euler\\ProjectEuler\\obj\\",
+      "projectPath": "/Users/antonlapin/Projects/project_euler/ProjectEuler/ProjectEuler.csproj",
+      "packagesPath": "/Users/antonlapin/.nuget/packages/",
+      "outputPath": "/Users/antonlapin/Projects/project_euler/ProjectEuler/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/antonlapin/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
       }
     }
   }
