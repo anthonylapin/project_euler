@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net;
 using System.Reflection.Metadata.Ecma335;
 
 namespace ProjectEuler
@@ -7,15 +8,8 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            var watch = new System.Diagnostics.Stopwatch();
-            watch.Start();
             Console.WriteLine("Hello World!");
-
-            //Problem2.Solution();
-
-            Problem8.Solution();
-            watch.Stop();
-            Console.WriteLine($"program took {watch.ElapsedMilliseconds} milliseconds");
+            Console.WriteLine(Problem9.Solution());
         }
 
     }
@@ -337,6 +331,34 @@ namespace ProjectEuler
             
 
 
+        }
+    }
+
+    class Problem9
+    {
+        // a^2 + b^2 = c^2. a + b + c = 1000. find a*b*c ?
+        // m / n method for finding pythagorean triplets.
+        public static int Solution()
+        {
+            int m = 2;
+
+            while(true)
+            {
+                int a, b, c;
+
+                for(int n = 1; n < m; n++)
+                {
+                    a = m * m - n * n;
+                    b = 2 * m * n;
+                    c = m * m + n * n;
+
+                    if(a + b + c == 1000)
+                    {
+                        return a * b * c;
+                    }
+                }
+                m++;
+            }
         }
     }
 
