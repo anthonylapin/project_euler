@@ -20,7 +20,7 @@
       "outputPath": "/Users/antonlapin/Projects/project_euler/Euler/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/antonlapin/.config/NuGet/NuGet.Config"
+        "/Users/antonlapin/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -56,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "74T6LHzeSIJb5V9r6kP1HwlafbKAl7hJq26HSP6ZrYZEuUdAIuq0GPUQB1Ctcio1fWLq4uwZqJDuFDJXohMNtQ==",
+  "dgSpecHash": "4fjrqaiO/appXjdEp25IB4dnP1K4nm2iknU5m744WR329l1moItlyXXoF7fClfB2z59A42/zxBW/acMsEdhwug==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\project_euler\\Euler\\Euler.csproj",
+  "projectFilePath": "/Users/antonlapin/Projects/project_euler/Euler/Euler.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
